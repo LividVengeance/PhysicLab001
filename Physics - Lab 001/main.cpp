@@ -32,3 +32,9 @@ int main()
 	int temp;
 	std::cin >> temp;
 }
+
+float DotProduct(Triangle A)
+{
+	abs(A.a[0]) * abs(A.b[0])
+
+}
